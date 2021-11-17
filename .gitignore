@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+node_modules/.cache/terser-webpack-plugin/content-v2/sha512/77/36/af9426f0e593d4395eaeab258acd8f663a1ebe525d11c1e1c9923c5b09c60cc2a8156f47018e1a306e6f59db4ef3c6ccbc46ed313d7be6312d9f499cdcfd
+node_modules/.cache/terser-webpack-plugin/content-v2/sha512/03/74/b0f3980ac74ee024435e7154a060d649ba4a045e45a6430f1af9a3e1a0684648cf2f96f00165bd000bc3b92217692bc07d4056d8b2eda0eac4cae57b1432
+node_modules/.cache/terser-webpack-plugin/content-v2/sha512/75/4a/12e2378556d7cd8d1f44eeef7e7a2134950e33d3d8912eb3881ae9d58bbaa39ee014714c5fbdeabf211337b09be051cdd35100151f373277ee0ffce48c1d
